@@ -1,0 +1,20 @@
+{
+  "HomePage": {
+    "title": "Hallo!",
+    "welcome": {
+      "title": "Willkommen auf der Startseite"
+    },
+    "contact": "Zur Kontaktseite"
+  },
+  "contactForm": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Abschicken"
+  },
+  "validation": {
+    "invalid": "Email ungültig",
+    "required": "Name erforderlich",
+    "min": "Message erforderlich, um mindestens 10 Zeichen zu sein"
+  }
+}
